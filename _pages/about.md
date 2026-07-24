@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "This is what I do."
-excerpt: "Hi, I’m Abdulazeez Olatinwo and I specialize in Mobile Applications (iOS and Android). I’m passionate about what I do, and I love to help people. Due to the large volume of requests, i give attention to paid requests. "
+excerpt: "Hi, I’m Azamuke Denish and I specialize in Mobile Applications (iOS and Android). I’m passionate about what I do, and I love to help people. Due to the large volume of requests, i give attention to paid requests. "
 image: "/assets/img/about.jpg"
 permalink: /about/
 ---
