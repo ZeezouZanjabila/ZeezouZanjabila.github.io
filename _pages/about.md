@@ -9,7 +9,7 @@ permalink: /about/
 
 
 
-Hi, I’m Abdulazeez Olatinwo, aPower BI and Data Analytics professional with 6 years of experience delivering executive dashboards, performance reporting, and stakeholder-facing BI solutions across energy, operations, and consulting environments. Strong background in Power BI, SQL, DAX, dashboard design, data validation, and KPI reporting, with proven ability to translate business needs into clear, reliable, decision-ready visualisations. Experienced working with cross-functional users, building reusable reporting models, and supporting data-driven decision-making through high-quality analytics delivery.
+Hi, I’m Abdulazeez Olatinwo, aPower BI and Data Analytics professional with years of experience delivering executive dashboards, performance reporting, and stakeholder-facing BI solutions across energy, operations, and consulting environments. Strong background in Power BI, SQL, DAX, dashboard design, data validation, and KPI reporting, with proven ability to translate business needs into clear, reliable, decision-ready visualisations. Experienced working with cross-functional users, building reusable reporting models, and supporting data-driven decision-making through high-quality analytics delivery.
 
 
 ### Let's be friends
