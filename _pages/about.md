@@ -2,18 +2,14 @@
 layout: page
 title: "About"
 description: "This is what I do."
-excerpt: "Hi, I’m Azamuke Denish and I specialize in Mobile Applications (iOS and Android). I’m passionate about what I do, and I love to help people. Due to the large volume of requests, i give attention to paid requests. "
+excerpt: "Hi, I’m Abdulazeez Olatinwo and I specialize in Mobile Applications (iOS and Android). I’m passionate about what I do, and I love to help people. Due to the large volume of requests, i give attention to paid requests. "
 image: "/assets/img/about.jpg"
 permalink: /about/
 ---
 
 
 
-Hi, I’m Azamuke Denish and I specialize in Mobile Applications. I’m passionate about what I do, and I love to help people. Nothing is more fulfilling than being part of a team with similar interests, and an organization that values its people.
-
-I am passionate about App Development and communities. I just enjoy working on new ideas. Also work as smart as possible. I love to do creative apps. I am always ready to learn new things and help people, organisations and companies however due to large volume of requests, i give attention to paid requests.
-
-I studied Bachelor of science in computer science at Makerere University from 2016 to 2019. In July 3rd - 4th 2019, I was able to represent Makerere University at The Africa Blockchain Conference, Kampala Serena Conference Centre. I also represented the University in many exhibitions in Kampala.
+Hi, I’m Abdulazeez Olatinwo, aPower BI and Data Analytics professional with 6 years of experience delivering executive dashboards, performance reporting, and stakeholder-facing BI solutions across energy, operations, and consulting environments. Strong background in Power BI, SQL, DAX, dashboard design, data validation, and KPI reporting, with proven ability to translate business needs into clear, reliable, decision-ready visualisations. Experienced working with cross-functional users, building reusable reporting models, and supporting data-driven decision-making through high-quality analytics delivery.
 
 
 ### Let's be friends
@@ -44,7 +40,7 @@ Join me on the following networks and/or websites:
     </a>
   </li>
   <li>
-    <a rel="me" href="//github.com/azamukedenish">
+    <a rel="me" href="//github.com/ZeezouZanjabila">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-github"></use></svg>
       </span><br><span class="label">GitHub</span>
@@ -52,8 +48,7 @@ Join me on the following networks and/or websites:
   </li>
   
   <li>
-    <a rel="me" href="//linkedin.com/in/azamuke-denish-
-42b465145/">
+    <a rel="me" href="//linkedin.com/in/abdulazeez-olatinwo">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-linkedin"></use></svg>
       </span><br><span class="label">LinkedIn</span>
